@@ -1,0 +1,85 @@
+ul{
+    width:  97%;
+    height: 106px;
+    background-color: #8a2be2;
+    text-align: end;
+
+}
+ul li {
+    display: inline-block;
+    font-size:x-large ;
+    padding: 30px 20px 50px 150px;
+
+}
+
+ul li:last-child {
+    padding-right: 100px;
+}
+
+ul a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.contioner{
+    width: 100%;
+}
+.pra{
+    width: 70%;
+    margin: 0px auto ;
+    text-align: center;
+}
+.pra p{
+    color: #008080;
+    font-family:  sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+
+}
+.poem-1{
+    color: #adff2f;
+    font-family: cursive;
+    font-size: 100px;
+}
+#span-1{
+    color: #00ffff;
+}
+.poem-2{
+    color:#ffff00d0;
+    font-family: 'Times New Roman', ;
+    font-size: 100px;
+    
+}
+#span-2{
+    color: #a52a2abb;
+}
+.poem-3{
+    color: #00ff00;
+    font-family: fantasy;
+    font-size: 100px;
+    text-align: center;
+}
+#span-3{
+    color: #ff0000;
+}
+
+.poem-4{
+    color: #4400ff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+}
+#span-4{
+    color: #ff00ff;
+}
+
+.poem-5{
+    color: #00ffff;
+    font-family:  Times, serif;
+    font-size: 100px;
+}
+#span-5{
+    color: #adff2f;
+}
+#red {
+    color: #a52a2a;
+}
+
